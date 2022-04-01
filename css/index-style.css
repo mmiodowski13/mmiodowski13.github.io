@@ -1,0 +1,33 @@
+html { 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.25rem;
+    line-height: 1.2;
+    color:blueviolet;
+}
+
+h1,
+h2,
+h3 {
+    color: rgb(240, 248, 255);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline dotted rgba(138, 43, 226) 5px;
+    text-underline-offset: 12px;
+}
+
+h1 {
+    font-size: 2.25rem;
+}
+
+h2 {
+    font-size: 1.8rem;;
+    text-decoration: none;
+}
+
+h2::before,
+h2::after {
+    content: "\1F941 ";
+}
+
+h3 { 
+    font-size: 1.5rem;
+}
