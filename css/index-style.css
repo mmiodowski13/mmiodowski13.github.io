@@ -54,3 +54,33 @@ footer a {
     color: rgb(45, 49, 250);
 }
 
+nav a:hover::before {
+    content: "\270F ";
+}
+
+header p {
+    font-size: 80%;
+}
+
+.assignments a:link,
+.assignments a:visited {
+    line-height: 1.6;
+}
+
+.assignments a:hover,
+.assignments a:active {
+    text-decoration: underline double rgba(138, 43, 226) 2px;
+    text-underline-offset: 4px;
+}
+
+.assignments li::before {
+    content: "\270F ";
+    font-size: 1.6rem;
+}
+
+footer {
+    color:rgb(240, 248, 255);
+    line-height: 80%;
+    font-weight: 500;
+}
+
