@@ -31,3 +31,26 @@ h2::after {
 h3 { 
     font-size: 1.5rem;
 }
+
+nav li {
+    font-size: 1.3rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    letter-spacing: 1px;
+    list-style-type: none;
+    text-transform: uppercase;
+}
+
+
+nav,
+header {
+    text-align: center;
+}
+
+nav a,
+.assignments a,
+footer a {
+    text-decoration: none;
+    color: rgb(45, 49, 250);
+}
+
