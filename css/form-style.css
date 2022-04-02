@@ -44,3 +44,39 @@ nav a {
     margin-right: 8px;
 }
 
+.policies {
+    margin-bottom: 2rem;
+}
+
+form {
+    padding-left: 3rem;
+}
+
+label,
+span{
+    display: inline-block;
+    width: 250px;
+    margin-right: 20px;
+    text-align: right;
+}
+
+.radio label {
+    width: 12px;
+}
+
+span {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+input[type=text],
+input[type=email],
+input[type=tel],
+input[type=date],
+input[type=number],
+input[type=file],
+input[type=checkbox]
+    padding: 10px;
+    margin: 8px 0;
+    border: none;
+    
