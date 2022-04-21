@@ -40,12 +40,15 @@ nav a:visited {
 padding: 20px;
 display: inline-block;
 color: #50504f;
-text-decoration: none;
+text-decoration: underline;
 text-transform: uppercase;
 letter-spacing: 1px;
 }
 
 nav a:hover,
 nav a:active {
-
+padding: 20px;
+display: inline-block;
+color: #50504f;
+text-decoration: underline;
 }
