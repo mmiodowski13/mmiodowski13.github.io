@@ -51,4 +51,6 @@ padding: 20px;
 display: inline-block;
 color: #50504f;
 text-decoration: underline;
+text-transform: uppercase;
+letter-spacing: 1px;
 }
