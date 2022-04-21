@@ -54,3 +54,24 @@ text-decoration: underline;
 text-transform: uppercase;
 letter-spacing: 1px;
 }
+
+main {
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Dancing Script', cursive; 
+}
+
+h1 {
+    font-size: 3rem;
+    margin: 6% 0;
+    text-align: center;
+    text-shadow: 3px 5px 3px #ccc;
+    }
+
+    
