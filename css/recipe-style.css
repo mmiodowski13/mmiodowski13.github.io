@@ -25,3 +25,27 @@ nav {
 nav li {
     display: inline;
 }
+
+nav a {
+    padding: 20px;
+    display: inline-block;
+    color: whitesmoke;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+nav a:link,
+nav a:visited {
+padding: 20px;
+display: inline-block;
+color: #50504f;
+text-decoration: none;
+text-transform: uppercase;
+letter-spacing: 1px;
+}
+
+nav a:hover,
+nav a:active {
+
+}
