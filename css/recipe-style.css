@@ -148,10 +148,18 @@ footer a {
     color: white;
 }
 
+footer ul {
+    list-style-type: none;
+}
+
 .col1,
 .col2,
 .col3 {
     display: block;
     float: left;
     width: 33%;
+}
+
+footer p {
+    clear: both;
 }
