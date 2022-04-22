@@ -118,6 +118,10 @@ blockquote {
     clear:both;
     width: 300px;
     height: 280px;
+    padding: 78px 16px 0 20px;
+    border-radius: 50%;
+    background-color: lightgreen;
+    outline: dotted 6px #c98226
 }
 
 
