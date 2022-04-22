@@ -123,14 +123,18 @@ blockquote {
     background-color: lightgreen;
     outline: dotted 6px #c98226;
     outline-offset: 4px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 1rem;
 }
 
-
+blockquote small{
+    text-align: right;
+}
 
 footer {
     background-color: lightgreen;
     color: black;
     padding: 2% 0;
     margin-top: 10px;
-
+    
 }
