@@ -116,4 +116,16 @@ header h2 {
 
 blockquote {
     clear:both;
+    width: 300px;
+    height: 280px;
+}
+
+
+
+footer {
+    background-color: lightgreen;
+    color: black;
+    padding: 2% 0;
+    margin-top: 10px;
+
 }
