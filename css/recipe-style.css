@@ -121,7 +121,8 @@ blockquote {
     padding: 78px 16px 0 20px;
     border-radius: 50%;
     background-color: lightgreen;
-    outline: dotted 6px #c98226
+    outline: dotted 6px #c98226;
+    outline-offset: 4px;
 }
 
 
