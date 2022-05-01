@@ -199,7 +199,24 @@ img {
 }
 
 .rate {
-    font-size: .9rem;
+    font-size: 1rem;
 }
+
+.details,
+    .ingredients,
+    .instructions,
+    .nutrition {
+        width: 40%;
+        float: none;
+    }
+
+    .col1,
+    .col2,
+    .col3 {
+        display: block;
+        float: none;
+        width: 33%;
+}
+
 
 }
