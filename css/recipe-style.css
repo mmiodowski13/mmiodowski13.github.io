@@ -197,4 +197,9 @@ img {
     max-width: 60%;
     margin-left: 20%;
 }
+
+.rate {
+    font-size: .9rem;
+}
+
 }
