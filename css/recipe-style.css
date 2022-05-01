@@ -166,5 +166,17 @@ footer p {
 
 /* media queries go below */
 @media (max-width: 360px) {
+ html {
+     line-height: 135%;
+ }
+
+nav a {
+    padding: 5px;
+    letter-spacing: normal;
+}
+
+nav ul {
+
+}
 
 }
