@@ -194,5 +194,7 @@ h2 {
 
 img {
     float: none;
+    max-width: 60%;
+    margin-left: 20%;
 }
 }
