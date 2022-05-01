@@ -210,12 +210,17 @@ img {
         float: none;
     }
 
+    blockquote {
+        max-width: 84%;
+        max-height: 80%;
+    }
+
     .col1,
     .col2,
     .col3 {
         display: block;
         float: none;
-        width: 33%;
+        width: 90%;
 }
 
 
